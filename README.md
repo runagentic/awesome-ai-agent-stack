@@ -6,7 +6,7 @@ AI agents are strongest at the command line. Give an agent a shell and a set of 
 
 This is a curated list of **command-line tools an agent can shell out to**, plus the notable MCP servers and APIs that fill the gaps. Every tool here is picked for one job: it is scriptable, composable (args in, stdout out, honest exit codes), and does real work the agent can delegate. Interactive-only TUIs, games, and novelty toys are left out.
 
-**Guiding pattern:** the LLM decides *what* to do (reasoning, planning, tool selection); mature specialized tools decide *how*. See [`_docs/Agent-Native-Tooling.md`](_docs/Agent-Native-Tooling.md).
+**Guiding pattern:** the LLM decides *what* to do (reasoning, planning, tool selection); mature specialized tools decide *how*.
 
 ## Categories
 

@@ -25,5 +25,5 @@ Excluded: interactive-only TUIs, games, chat/music clients, terminal eye-candy, 
 ## Maintenance
 
 - Source repos are shallow-cloned into `_sources/` (gitignored) for mining. Re-clone to refresh.
-- Keep categories in sync with the taxonomy in [`_docs/Agent-Native-Tooling.md`](_docs/Agent-Native-Tooling.md).
+- Keep categories in sync across the `tools/` files and the `README.md` index.
 - Prefer official repos/homepages for links; verify a tool still ships a non-interactive mode before adding.
