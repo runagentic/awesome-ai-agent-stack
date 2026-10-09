@@ -41,6 +41,7 @@ Git, code search, static analysis, refactoring, testing, and benchmarking. The t
 - **[just](https://github.com/casey/just)** - modern make-like command runner for project tasks.
 - **[bats-core](https://github.com/bats-core/bats-core)** - Bash automated testing system; scriptable test suites with exit codes.
 - **[Step CI](https://github.com/stepci/stepci)** - declarative API testing driven by config files.
+- **[agent-qa](https://github.com/vostride/agent-qa)** - run natural-language web and mobile tests from the CLI; returns test-result exit codes and reuses execution memory to adapt to UI changes.
 - **[loadtest](https://github.com/alexfernandez/loadtest)** - run HTTP load tests from the CLI.
 - **[grex](https://github.com/pemistahl/grex)** - generate a regex from example strings.
 
