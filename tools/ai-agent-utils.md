@@ -9,6 +9,7 @@ The layer specific to running LLMs and agents: model CLIs, context builders, tok
 - **[llm](https://github.com/simonw/llm)** - Simon Willison's CLI for talking to LLMs (local and hosted); pipe text in, get completions out, with a plugin ecosystem. The default for scripting model calls in a shell.
 - **[AIChat](https://github.com/sigoden/aichat)** - all-in-one LLM CLI (chat, shell assistant, RAG) usable non-interactively; delegate sub-prompts to models.
 - **[Ollama](https://ollama.com/)** - run open LLMs locally with a simple CLI/API; offline inference for agent subtasks.
+- **[yylo](https://github.com/yylo-dev/yylo)** - command-line orchestrator for coding agents; runs Kanban, task and merge loops across Git worktrees, with strict stdout JSON for scripting agents and pipelines.
 
 ## Context building
 
